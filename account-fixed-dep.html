@@ -49,6 +49,20 @@
     <link rel="stylesheet" href="assets/css/style.css" />
     <link rel="stylesheet" href="assets/css/responsive.css" />
 
+    <style>
+        .new-row{
+            display: flex; 
+            width: 100%; 
+            justify-content: space-around;
+        }
+
+        @media only screen and (max-width: 600px){
+            .new-row{
+                flex-direction: column;
+            }
+        }
+    </style>
+
 </head>
 
 
@@ -697,7 +711,7 @@
                     </div>
                 </div>
 
-                <div class="" style="display: flex; width: 100%; justify-content: space-around;">
+                <div class="new-row">
                     <div class="col-xl-5 col-lg-12">
                         <!--Start Single Documents Box-->
                         <div class="single-documents-box">
