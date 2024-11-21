@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icons/global-message/error/24x24</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Global-Messaging" transform="translate(-152.000000, -320.000000)" fill="#BF2D19" fill-rule="nonzero">
+            <g id="icon/global-message/error/24x24" transform="translate(152.000000, 320.000000)">
+                <path d="M12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C23.9921977,18.6241825 18.6241825,23.9921977 12,24 Z M12.009,18.5745 C12.3810019,18.5745 12.6899988,18.4485013 12.936,18.1965 C13.1820012,17.9444987 13.305,17.6325019 13.305,17.2605 C13.305,16.8764981 13.1820012,16.5645012 12.936,16.3245 C12.6899988,16.0844988 12.3810019,15.9645 12.009,15.9645 C11.6249981,15.9645 11.3100012,16.0844988 11.064,16.3245 C10.8179988,16.5645012 10.695,16.8764981 10.695,17.2605 C10.695,17.6325019 10.8179988,17.9444987 11.064,18.1965 C11.3100012,18.4485013 11.6249981,18.5745 12.009,18.5745 Z M11.199,14.7225 L12.783,14.7225 L13.179,6.1725 L10.803,6.1725 L11.199,14.7225 Z" id="error-icon-copy"></path>
+            </g>
+        </g>
+    </g>
+</svg>

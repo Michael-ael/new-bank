@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>8F3E0E52-3953-4A44-A1CC-3B90C1F21442</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/action/backtotop" fill-rule="nonzero">
+            <circle id="Oval" fill="#787070" cx="32" cy="32" r="32"></circle>
+            <g id="icon/button/single-link" transform="translate(32.500000, 32.500000) rotate(-90.000000) translate(-32.500000, -32.500000) translate(14.000000, 14.000000)" fill="#FFFFFF">
+                <path d="M29.9318341,16.2213929 L14.6874811,0.907420184 C13.4830879,-0.302473395 11.5332646,-0.302473395 10.3319517,0.907420184 C9.12755849,2.11421941 9.12755849,4.07294738 10.3319517,5.28284095 L23.39854,18.4121976 L10.1532949,31.7179326 C8.9489017,32.9278262 8.9489017,34.8865542 10.1532949,36.0933534 C10.7539514,36.6998474 11.5425055,37 12.3310596,37 C13.1196137,37 13.9081679,36.6998474 14.5088243,36.0933534 L29.9287538,20.6060967 C30.2306222,20.2997554 30.4554833,19.950093 30.6064175,19.5756758 C31.0592201,18.458613 30.8343589,17.1280395 29.9318341,16.2213929" id="fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>
